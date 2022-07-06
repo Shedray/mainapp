@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shedray.mainapp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shedray.mainapp.MyBundle
 
 class MyApplicationService {
 
